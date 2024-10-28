@@ -4,7 +4,10 @@ import java.util.Scanner;
 
 public class Principal {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    	
+    	//Declaramos variables
+    	System.out.println("Hola mundo");        
+    	Scanner scanner = new Scanner(System.in);
         Implementacion banco = new Implementacion();
         int opcion;
 
