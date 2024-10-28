@@ -6,7 +6,6 @@ public class Principal {
     public static void main(String[] args) {
     	
     	//Declaramos variables
-    	System.out.println("Hola mundo");        
     	Scanner scanner = new Scanner(System.in);
         Implementacion banco = new Implementacion();
         int opcion;
